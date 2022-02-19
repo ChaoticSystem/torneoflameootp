@@ -1,6 +1,14 @@
 <?php
 
+/*
 
+HONORES A HANYERCK DIAZ (TE VOY A REPORTAR POR CAREVERGA) 
+GG NO JG 
+FF AL 15
+REPORT TEAM
+WIN MIN 50
+
+*/
 
 ?>
 <!-- atribuciones--
